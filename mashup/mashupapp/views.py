@@ -17,10 +17,12 @@ def mashup_func(a,b,c,d):
     try:
         # if(len(sys.argv)!=5):
         #     print('Please Enter all the required command line parameters')
-        if(int(b)<=10):  
-            print("Number of videos to be downloaded must be greater than 10")  
-        elif(int(c)<=20):  
-            print("Seconds to be cut in each video must be greater than 20")     
+        # if(int(b)<=10):  
+        #     print("Number of videos to be downloaded must be greater than 10")  
+        # elif(int(c)<=20):  
+        #     print("Seconds to be cut in each video must be greater than 20")     
+        if False:
+            pass
         else:
             x=Search(a+" Songs")
             counter=0
