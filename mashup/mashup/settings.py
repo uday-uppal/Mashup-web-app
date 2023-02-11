@@ -128,12 +128,12 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'roboman6122@gmail.com' # Name for all the SenGrid accounts
-EMAIL_HOST_PASSWORD = 'wtgpgclikffzlazh'
+EMAIL_HOST_USER = 'mashupwebapp@gmail.com' # Name for all the SenGrid accounts
+EMAIL_HOST_PASSWORD = 'nxrjfeipuywbulct'
 
 
 # The email you'll be sending emails from
-DEFAULT_FROM_EMAIL = 'roboman6122@gmail.com'
+DEFAULT_FROM_EMAIL = 'mashupwebapp@gmail.com'
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
