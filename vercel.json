@@ -24,7 +24,7 @@
         },
         {
             "src": "/media/(.*)",
-            "dest": "/mashup/media/$1"
+            "dest": "/media/$1"
         },
         {
             "src": "/(.*)",
